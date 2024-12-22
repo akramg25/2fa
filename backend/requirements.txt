@@ -1,0 +1,9 @@
+flask
+flask-cors
+python-dotenv
+pymongo[srv]
+bcrypt
+uuid
+flask_mailing
+twilio
+sinch
